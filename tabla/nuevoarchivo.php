@@ -1,3 +1,3 @@
 <?php
-echo "modificamos el archiv";
+echo "modificamos el archivo";
 ?>
